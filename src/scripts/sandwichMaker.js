@@ -7,5 +7,8 @@ export default {
             cheese: cheese,
             bread: breadType
         })
+    },
+    getOrder(){
+        console.log("I am calling getOrder");
     }
 };
